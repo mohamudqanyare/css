@@ -1,0 +1,12 @@
+h1{ Option 1 is choosing straight color
+    color: blue;
+}
+
+h1{ Option 2 is RGB
+    color: rgba(red, green, blue);0,1
+}
+
+h1{Option 3 is HEX =16
+    color: rgb(red, green, blue);
+}
+
