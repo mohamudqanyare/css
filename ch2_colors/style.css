@@ -1,12 +1,10 @@
-h1{ Option 1 is choosing straight color
-    color: blue;
+div{
+    border-style: solid;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    opacity: 0.1;
 }
-
-h1{ Option 2 is RGB
-    color: rgba(red, green, blue);0,1
+body{
+    background-color:
 }
-
-h1{Option 3 is HEX =16
-    color: rgb(red, green, blue);
-}
-
