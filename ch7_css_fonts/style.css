@@ -1,0 +1,12 @@
+body{
+    font-family: lobster&display;   
+}
+h1{
+font-size: 100px;
+font-style: italic;
+}
+
+span{
+    font-weight:bolder;
+    font-variant:small-caps;
+}
